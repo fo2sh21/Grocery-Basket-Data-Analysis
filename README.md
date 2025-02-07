@@ -17,17 +17,17 @@ This project provides an interactive dashboard for analyzing customer transactio
 - **Customer Analysis**: Detailed view of individual customer transactions and spending habits.
 
 ### Usage
-  Use the CSV file provided as an example.
+  - Use the CSV file provided as an example.
 
-  Explore the cleaned data in the "Data Cleaning" tab.
+  - Explore the cleaned data in the "Data Cleaning" tab.
 
-  Use the "Visualization" tab to view various plots.
+  - Use the "Visualization" tab to view various plots.
 
-  Apply K-Means clustering in the "Clustering" tab.
+  - Apply K-Means clustering in the "Clustering" tab.
 
-  Generate and view association rules in the "Association Rules" tab.
+  - Generate and view association rules in the "Association Rules" tab.
 
-  Analyze individual customer data in the "Customers" tab.
+  - Analyze individual customer data in the "Customers" tab.
 
 ###Requirements
 Python 3.8+
