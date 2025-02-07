@@ -2,9 +2,7 @@
 import pandas as pd
 import numpy as np
 from sklearn.cluster import KMeans
-import matplotlib.pyplot as plt
 from apyori import apriori
-import seaborn as sns
 import plotly.express as px
 import plotly.graph_objects as go
 items = []
