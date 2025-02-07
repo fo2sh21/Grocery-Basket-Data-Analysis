@@ -29,7 +29,7 @@ This project provides an interactive dashboard for analyzing customer transactio
 
   - Analyze individual customer data in the "Customers" tab.
 
-###Requirements
+##Requirements
 Python 3.8+
 Streamlit
 Pandas
