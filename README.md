@@ -16,7 +16,7 @@ This project provides an interactive dashboard for analyzing customer transactio
 - **Association Rules**: Generate association rules for frequently purchased items.
 - **Customer Analysis**: Detailed view of individual customer transactions and spending habits.
 
-3-Usage
+### Usage
   Use the CSV file provided as an example.
 
   Explore the cleaned data in the "Data Cleaning" tab.
